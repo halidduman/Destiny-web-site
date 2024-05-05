@@ -1,5 +1,4 @@
 # Destiny-web-site
-# BMW-web-site
 
 **Başlık:** DESTINY
 
